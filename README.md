@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 -->
 <br />
 <img align = "left" height = 200 width = 450 src = "https://github-readme-stats.vercel.app/api?username=akash435&&show_icons=true&title_color=000000&icon_color=800000&text_color=800080&bg_color=c0c0c0">
-<img align = "right" height = 200 width = 370 src="https://github-readme-stats.vercel.app/api/top-langs?username=akash435&show_icons=true&locale=en&layout=compact&title_color=000000&icon_color=800000&text_color=800080&bg_color=c0c0c0" alt="akash435" />
+<img align = "right" height = 210 width = 350 src="https://github-readme-stats.vercel.app/api/top-langs?username=akash435&show_icons=true&locale=en&layout=compact&title_color=000000&icon_color=800000&text_color=800080&bg_color=c0c0c0" alt="akash435" />
 
 
