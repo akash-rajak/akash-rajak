@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src = "https://github-readme-stats.vercel.app/api?username=akash435&&show_icons=true&title_color=000000&icon_color=800000&text_color=800080&bg_color=c0c0c0">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash435&show_icons=true&locale=en&layout=compacttitle_color=000000&icon_color=800000&text_color=800080&bg_color=c0c0c0" alt="akash435" />
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=akash435&&show_icons=true&title_color=000000&icon_color=800000&text_color=800080&bg_color=c0c0c0">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash435&show_icons=true&locale=en&layout=compact" alt="akash435" />
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Unscramble-Word-Game-App&&show_icons=true&bg_color=c0c0c0&text_color=800080&title_color=000000">
