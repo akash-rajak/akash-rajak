@@ -3,10 +3,14 @@
 
 [![HitCount](http://hits.dwyl.com/akash435/akash435.svg)](http://hits.dwyl.com/akash435/akash435)
 <img src="https://komarev.com/ghpvc/?username=akash435&label=Profile%20views&color=0e75b6&style=flat" alt="akash435" />
-- 📫 How to reach me **aakashrajak02@gmail.com** | **435_bt19@iitkalyani.ac.in**
+![GitHub followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)
+
+### How to reach me **aakashrajak02@gmail.com** | **435_bt19@iitkalyani.ac.in**
 
 ✔ LinkedIn : [akash435](https://www.linkedin.com/in/akash-rajak-akash435/)<br />
 ✔ Codechef : [akash435](https://www.codechef.com/users/akash435)<br />
+✔ Codeforces : [aakashrajak02](https://codeforces.com/profile/aakashrajak02)<br />
+✔ Leetcode : [akash435](https://leetcode.com/akash435/)<br />
 ✔ Twitter : [akash_ramanand](https://twitter.com/akash_ramanand)<br />
 ✔ Facebook : [akash.rajak.58173](https://www.facebook.com/aakash.rajak.58173)
 
