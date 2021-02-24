@@ -1,8 +1,10 @@
 ### Hi there, I am Akash Rajak 👋
 
+<b>
 ✔ LinkedIn : [akash435](https://www.linkedin.com/in/akash-rajak-akash435/)<br />
 ✔ Twitter : [akash_ramanand](https://twitter.com/akash_ramanand)<br />
 ✔ Facebook : [akash.rajak.58173](https://www.facebook.com/aakash.rajak.58173)
+  </b>
 
 
 <!--
