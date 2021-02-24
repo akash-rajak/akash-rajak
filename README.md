@@ -6,6 +6,7 @@
 - 📫 How to reach me **aakashrajak02@gmail.com** | **435_bt19@iitkalyani.ac.in**
 
 ✔ LinkedIn : [akash435](https://www.linkedin.com/in/akash-rajak-akash435/)<br />
+✔ Codechef : [akash435](https://www.codechef.com/users/akash435)<br />
 ✔ Twitter : [akash_ramanand](https://twitter.com/akash_ramanand)<br />
 ✔ Facebook : [akash.rajak.58173](https://www.facebook.com/aakash.rajak.58173)
 
@@ -24,5 +25,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=akash435&&show_icons=true&title_color=000000&icon_color=800000&text_color=800080&bg_color=c0c0c0">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash435&show_icons=true&locale=en&layout=compact&title_color=000000&icon_color=800000&text_color=800080&bg_color=c0c0c0" alt="akash435" /></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash435&show_icons=true&locale=en&layout=compact&title_color=000000&icon_color=800000&text_color=800080&bg_color=c0c0c0" alt="akash435" /><br />
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Unscramble-Word-Game-App&&show_icons=true&bg_color=c0c0c0&text_color=800080&title_color=000000">
