@@ -1,5 +1,5 @@
 
-### Hi there, I am Akash Rajak 👋
+### Hi there, I am **Akash Rajak** 👋
 
 [![HitCount](http://hits.dwyl.com/akash435/akash435.svg)](http://hits.dwyl.com/akash435/akash435)
 <img src="https://komarev.com/ghpvc/?username=akash435&label=Profile%20views&color=0e75b6&style=flat" alt="akash435" />
