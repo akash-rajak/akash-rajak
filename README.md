@@ -1,6 +1,4 @@
 
-![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
-
 ### Hi there, I am Akash Rajak 👋
 ****
 [![HitCount](http://hits.dwyl.com/akash435/akash435.svg)](http://hits.dwyl.com/akash435/akash435)
