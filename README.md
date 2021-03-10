@@ -1,7 +1,7 @@
 
 ### Hi there, I am Akash Rajak 👋
 ****
-[![HitCount](http://hits.dwyl.com/akash435/akash435.svg)](http://hits.dwyl.com/akash435/akash435)
+
 <img src="https://komarev.com/ghpvc/?username=akash435&label=Profile%20views&color=0e75b6&style=flat" alt="akash435" />
 ![GitHub followers](https://img.shields.io/github/followers/akash435?label=Followers)
 ****
@@ -18,6 +18,7 @@
 ****
 
 <!--
+[![HitCount](http://hits.dwyl.com/akash435/akash435.svg)](http://hits.dwyl.com/akash435/akash435)
 **akash435/akash435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
