@@ -1,9 +1,9 @@
 
 ### Hi there, I am Akash Rajak 👋
 ****
-![Akash Ramanand Rajak](https://komarev.com/ghpvc/?username=akash435) 
-![GitHub Followers](https://img.shields.io/github/followers/akash435?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/akash435?label=Stars)
+![Akash Ramanand Rajak](https://komarev.com/ghpvc/?username=akash435&color=00FF00) 
+![GitHub Followers](https://img.shields.io/github/followers/akash435?label=Followers&color=00FF00)
+![GitHub Stars](https://img.shields.io/github/stars/akash435?label=Stars&color=00FF00)
 ****
 
 ### How to reach me  : **aakashrajak02@gmail.com** | **435_bt19@iitkalyani.ac.in**
