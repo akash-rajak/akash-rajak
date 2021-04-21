@@ -1,9 +1,9 @@
 
 ### Hi there, I am Akash Rajak 👋
 ****
-[![HitCount](http://hits.dwyl.com/akash435/akash435.svg)](http://hits.dwyl.com/akash435/akash435)
-<img src="https://komarev.com/ghpvc/?username=akash435&label=Profile%20views&color=00FF00&style=flat" alt="akash435" />
-![GitHub followers](https://img.shields.io/github/followers/akash435?label=Followers&color=00FF00)
+![Akash Ramanand Rajak](https://komarev.com/ghpvc/?username=akash435) 
+![GitHub Followers](https://img.shields.io/github/followers/akash435?label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/akash435?label=Stars)
 ****
 
 ### How to reach me  : **aakashrajak02@gmail.com** | **435_bt19@iitkalyani.ac.in**
@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash435&show_icons=true&locale=en&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" alt="akash435" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash435&langs_count=7&exclude_repo=android_device_xiaomi_onclite,device_xiaomi_onclite,android_kernel_xiaomi_onclite,android_vendor_xiaomi_onclite&hide=Smali,Shell)](https://github.com/akash435)
+
+[![HitCount](http://hits.dwyl.com/akash435/akash435.svg)](http://hits.dwyl.com/akash435/akash435)
+<img src="https://komarev.com/ghpvc/?username=akash435&label=Profile%20views&color=00FF00&style=flat" alt="akash435" />
+![GitHub followers](https://img.shields.io/github/followers/akash435?label=Followers&color=00FF00)
 -->
 <br />
 <img align = "left" height = 200 width = 450 src = "https://github-readme-stats.vercel.app/api?username=akash435&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000">
