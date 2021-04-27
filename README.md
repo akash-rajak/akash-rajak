@@ -6,11 +6,10 @@
 ![GitHub Stars](https://img.shields.io/github/stars/akash435?label=Stars&color=00FF00)
 ****
 
-### How to reach me  : **aakashrajak02@gmail.com** | **435_bt19@iitkalyani.ac.in**
-
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/akash-rajak-akash435/"><img height = 50 width = 50 src="linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.codechef.com/users/akash435"><img height = 50 width = 50 src="codechef.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aakashrajak02@gmail.com"><img height = 50 width = 50 src="mail.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akash-rajak-akash435/"><img height = 50 width = 50 src="linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/akash435"><img height = 50 width = 50 src="codechef.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/aakashrajak02"><img height = 50 width = 50 src="codeforces.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/akash435/"><img height = 50 width = 50 src="leetcode.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/aakashrajak02"><img height = 50 width = 50 src="hackerrank.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,6 +22,8 @@
 <!--
 **akash435/akash435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
+### How to reach me  : **aakashrajak02@gmail.com** | **435_bt19@iitkalyani.ac.in**
 
 ✔ LinkedIn : [akash435](https://www.linkedin.com/in/akash-rajak-akash435)<br />
 ✔ Codechef : [akash435](https://www.codechef.com/users/akash435)<br />
