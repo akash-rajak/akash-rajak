@@ -8,6 +8,20 @@
 
 ### How to reach me  : **aakashrajak02@gmail.com** | **435_bt19@iitkalyani.ac.in**
 
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/akash-rajak-akash435/"><img width = 50 src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.codechef.com/users/akash435"><img width = 50 src="https://yt3.ggpht.com/ytc/AAUvwnhAFZgqXiTg3WS7ZFI6byv7sBAVxE9j8T6Cioa8rw4=s900-c-k-c0x00ffffff-no-rj" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/aakashrajak02"><img width = 50 src="https://storage.googleapis.com/kaggle-datasets-images/742290/1285655/87aed221116e8abb4e01e98b15fd5b75/dataset-card.png?t=2020-06-28-00-49-57" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/akash435/"><img width = 50 src="" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/aakashrajak02"><img width = 50 src="" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/akash_ramanand"><img width = 50 src="" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/aakash.rajak.58173"><img width = 50 src="" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<!--
+**akash435/akash435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+
 ✔ LinkedIn : [akash435](https://www.linkedin.com/in/akash-rajak-akash435)<br />
 ✔ Codechef : [akash435](https://www.codechef.com/users/akash435)<br />
 ✔ Codeforces : [aakashrajak02](https://codeforces.com/profile/aakashrajak02)<br />
@@ -16,10 +30,6 @@
 ✔ Twitter : [akash_ramanand](https://twitter.com/akash_ramanand)<br />
 ✔ Facebook : [akash.rajak.58173](https://www.facebook.com/aakash.rajak.58173)<br />
 ****
-
-<!--
-**akash435/akash435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
