@@ -1,7 +1,7 @@
 
 ### Hi there, I am Akash Rajak 👋
 ****
-![Github Progile Views](https://komarev.com/ghpvc/?username=akash435&color=00FF00) 
+![Github Profile Views](https://komarev.com/ghpvc/?username=akash435&color=00FF00) 
 ![GitHub Followers](https://img.shields.io/github/followers/akash435?label=Followers&color=00FF00)
 ![GitHub Stars](https://img.shields.io/github/stars/akash435?label=Stars&color=00FF00)
 ****
