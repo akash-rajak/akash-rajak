@@ -8,7 +8,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/akash435?label=Followers&color=00FF00)
 ![GitHub Stars](https://img.shields.io/github/stars/akash435?label=Stars&color=00FF00)
 ****
-
+ 
 <p align="center">
   <a target=_blank href="mailto:aakashrajak02@gmail.com"><img height = 50 width = 50 src="images/mail.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://www.linkedin.com/in/akash-rajak-akash435/"><img height = 50 width = 50 src="images/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
