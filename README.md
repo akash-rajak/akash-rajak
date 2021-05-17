@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 ****
 
-<h1>Featured Projects 👇🏿 </h1>
+<h1>✔ Featured Projects 👇🏿 </h1>
 
 <p align = "center">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Cave-Man-Game&theme=chartreuse-dark" />&nbsp;&nbsp;&nbsp;&nbsp;
