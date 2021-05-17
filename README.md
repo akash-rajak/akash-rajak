@@ -65,6 +65,9 @@ Here are some ideas to get you started:
 
 <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash435&langs_count=10&exclude_repo=android_device_xiaomi_onclite,device_xiaomi_onclite,android_kernel_xiaomi_onclite,android_vendor_xiaomi_onclite&hide=Smali,Shell&show_icons=true&locale=en&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" alt="akash435" />
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Cave-Man-Game&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Resume&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000)
 
 -->
 
@@ -79,7 +82,12 @@ Here are some ideas to get you started:
   <img width = 750 src="https://github-readme-streak-stats.herokuapp.com/?user=akash435&theme=chartreuse-dark" />
 </p>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Cave-Man-Game&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000)
+****
+
+<p align = "center">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Cave-Man-Game&theme=chartreuse-dark" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Resume&theme=chartreuse-dark" />
+</p>
 
 ****
 
