@@ -79,5 +79,7 @@ Here are some ideas to get you started:
   <img width = 750 src="https://github-readme-streak-stats.herokuapp.com/?user=akash435&theme=chartreuse-dark" />
 </p>
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Cave-Man-Game&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000)
+
 ****
 
