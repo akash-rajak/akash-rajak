@@ -87,8 +87,8 @@ Here are some ideas to get you started:
 <h1>✔ Featured Projects 👇🏿 </h1>
 
 <p align = "center">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Cave-Man-Game&theme=chartreuse-dark" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Resume&theme=chartreuse-dark" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Cave-Man-Game&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Resume&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" />
 </p>
 
 ****
