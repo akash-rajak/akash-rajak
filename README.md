@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=CaveMan-The_Saviour&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Resume&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Password-Strength-Predictor&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" />
 </p>
 
 ****
