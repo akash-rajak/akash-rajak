@@ -84,7 +84,7 @@ Password-Strength-Predictor
 
 ****
 
-[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=true)](https://github.com/akash435/github-readme-activity-graph)
+[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=true)](https://github.com/akash435)
 
 ****
 
