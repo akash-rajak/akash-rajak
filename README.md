@@ -111,6 +111,3 @@ Password-Strength-Predictor
 
 </table>
 --->
-
-****
-
