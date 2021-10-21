@@ -1,14 +1,9 @@
-
 # Hi there, I am Akash Rajak 👋
 
-
-
 ****
-![Github Profile Views](https://komarev.com/ghpvc/?username=akash435&color=00FF00) 
-![GitHub Followers](https://img.shields.io/github/followers/akash435?label=Followers&color=00FF00)
 ![GitHub Stars](https://img.shields.io/github/stars/akash435?label=Stars&color=00FF00)
 ****
- 
+
 <p align="center">
   <a target=_blank href="mailto:aakashrajak02@gmail.com"><img height = 50 width = 50 src="images/mail1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://www.linkedin.com/in/akash-rajak-akash435/"><img height = 50 width = 50 src="images/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -85,7 +80,7 @@ Password-Strength-Predictor
 
 ****
 
-[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false)](https://github.com/akash435?tab=repositories)
+[![Akash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false)](https://github.com/akash435?tab=repositories)
 
 ****
 
