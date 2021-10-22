@@ -75,9 +75,9 @@ Password-Strength-Predictor
 -->
 
 <p align="center">
-  <img width = 450 src = "https://github-readme-stats.vercel.app/api?username=akash435&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000">
+  <img height = 400 width = 400 src = "https://github-readme-stats.vercel.app/api?username=akash435&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000">
   
-  <img width = 450 src="https://github-readme-streak-stats.herokuapp.com/?user=akash435&theme=chartreuse-dark" />
+  <img height = 400  width = 400 src="https://github-readme-streak-stats.herokuapp.com/?user=akash435&theme=chartreuse-dark" />
 </p>
 
 <p align="left">
