@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Resume&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000)
 Password-Strength-Predictor
+
+[![Akash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false)](https://github.com/akash435?tab=repositories)
 -->
 
 <p align="center">
@@ -87,7 +89,9 @@ Password-Strength-Predictor
 
 ****
 
-[![Akash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false)](https://github.com/akash435?tab=repositories)
+<p align = "center">
+  <a href = "https://github.com/akash435?tab=repositories"><img width = 800 src="https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false" /></a>
+</p>
 
 ****
 
