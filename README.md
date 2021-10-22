@@ -75,7 +75,7 @@ Password-Strength-Predictor
 -->
 
 <p align="center">
-  <img width = 750 src = "https://github-readme-stats.vercel.app/api?username=akash435&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000">
+  <img width = 800 src = "https://github-readme-stats.vercel.app/api?username=akash435&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000">
 </p>
 
 <p align="center">
