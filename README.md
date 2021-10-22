@@ -83,8 +83,8 @@ Password-Strength-Predictor
 
 <p align="center">
   <img width = 400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash435&langs_count=30&exclude_repo=android_device_xiaomi_onclite,device_xiaomi_onclite,android_kernel_xiaomi_onclite,android_vendor_xiaomi_onclite&hide=Smali,Shell&show_icons=true&locale=en&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" alt="akash435" />
-  <a href = "https://github.com/akash435?tab=repositories"><img width = 400 src="https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false" /></a>
-
+  <a href = "https://github.com/akash435?tab=repositories"><img height = 600 width = 400 src="https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false" /></a>
+</p>
 
 ****
 
