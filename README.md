@@ -19,6 +19,9 @@
 
 <!---
 
+![Github Profile Views](https://komarev.com/ghpvc/?username=akash435&color=00FF00) 
+![GitHub Followers](https://img.shields.io/github/followers/akash435?label=Followers&color=00FF00)
+
 **akash435/akash435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
