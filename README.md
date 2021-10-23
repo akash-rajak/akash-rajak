@@ -44,13 +44,12 @@
 ****
 
 <h1>✔ Featured Projects 👇🏿 </h1>
+
 <p align = "center">
   <a href="https://github.com/akash435/CaveMan-The_Saviour"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=CaveMan-The_Saviour&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/akash435/Real-Time-Human-Detection-Counting"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Real-Time-Human-Detection-Counting&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
 </p>
 <p align = "center">
-  <a href="https://github.com/akash435/Dictionary"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=
-Dictionary&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/akash435/Video-Stitching"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=
-Video-Stitching&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
+  <a href="https://github.com/akash435/CaveMan-The_Saviour"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=CaveMan-The_Saviour&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/akash435/Real-Time-Human-Detection-Counting"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Real-Time-Human-Detection-Counting&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
 </p>
