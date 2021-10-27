@@ -41,12 +41,12 @@
 </p>
 
 <p align = "center">
-  <img width = 810 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash435&theme=solarized_dark" /></a>
+  <img width = 810 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash435&theme=github_dark" /></a>
 </p>
 
 <p align = "left">
-  <img width = 400 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash435&theme=solarized_dark" />
-  <img width = 400 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash435&theme=solarized_dark" />
+  <img width = 400 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash435&theme=github_dark" />
+  <img width = 400 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash435&theme=github_dark" />
 </p>
 
 ****
