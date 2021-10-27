@@ -41,7 +41,7 @@
 </p>
 
 <p align = "center">
-  <img width = 810 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash435&theme=dracula" /></a>
+  <img width = 810 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash435&theme=solarized_dark" /></a>
 </p>
 
 <p align = "left">
