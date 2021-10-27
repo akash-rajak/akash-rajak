@@ -40,6 +40,10 @@
   <a href = "https://github.com/akash435?tab=repositories"><img width = 800 src="https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false" /></a>
 </p>
 
+<p align = "center">
+  <img width = 800 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash435&theme=solarized_dark" /></a>
+</p>
+
 ****
 
 <h1>✔ Featured Projects 👇🏿 </h1>
