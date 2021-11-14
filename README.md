@@ -47,8 +47,8 @@
 </p>
 
 <p align = "left">
-  <img width = 415 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash435&theme=solarized_dark" />
-  <img width = 415 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash435&theme=solarized_dark" />
+  <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash435&theme=solarized_dark" />
+  <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash435&theme=solarized_dark" />
 </p>
 
 ****
