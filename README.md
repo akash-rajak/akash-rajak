@@ -51,6 +51,11 @@
   <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash435&theme=solarized_dark" />
 </p>
 
+<p>
+  <img width = 420 src="https://github.com/akash435/stats/blob/master/generated/overview.svg">
+  <img width = 420 src="https://github.com/akash435/stats/blob/master/generated/languages.svg">
+</p>
+
 ****
 
 <h1>✔ Featured Projects 👇🏿 </h1>
