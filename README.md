@@ -67,8 +67,7 @@
   <a href="https://github.com/akash435/Real-Time-Human-Detection-Counting"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Real-Time-Human-Detection-Counting&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
 </p>
 <p align = "center">
-  <a href="https://github.com/akash435/Image-Watermark-Remover"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=
-Image-Watermark-Remover&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/akash435/Image-Watermark-Remover"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Image-Watermark-Remover&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/akash435/Video-Stitching"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=VIdeo-Stitching&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
 </p>
 
