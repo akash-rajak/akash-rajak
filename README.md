@@ -21,6 +21,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub Followers](https://img.shields.io/github/followers/akash435?label=Followers&color=00FF00)
 ![GitHub Stars](https://img.shields.io/github/stars/akash435?label=Stars&color=00FF00)
+
+[![Leetcode](https://img.shields.io/badge/Leetcode-1714-orange)](https://leetcode.com/Siddhant_Khare/)&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/siddhant_k)](https://www.codechef.com/users/siddhant_k)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/siddhant_k)](https://codeforces.com/profile/siddhant_k)&nbsp;&nbsp;&nbsp;[![Atcoder](https://cp-logo.vercel.app/atcoder/Siddhant_Khare)](https://atcoder.jp/users/Siddhant_Khare)
+
+<a href="https://twitter.com/intent/follow?screen_name=akash_ramanand"><img src="https://img.shields.io/badge/Akash-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:Siddhantkhare2694@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.facebook.com/SIDDHANTKHARE2407/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://t.me/siddhant_khare"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.instagram.com/siddhant_says/"><img src="https://img.shields.io/badge/siddhant_says-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
 -->
 
 ****
