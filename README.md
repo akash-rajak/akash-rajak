@@ -1,12 +1,23 @@
 # Hi there, I am Akash Rajak 👋
 
-****
 
+****
+<p align="center">
+  <a href="https://github.com/akash435?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/akash435?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/akash435"/></a>
+  <a href="https://github.com/akash435?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/akash435?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="#"><img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/akash435" > </a>
+</p>
+
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub Followers](https://img.shields.io/github/followers/akash435?label=Followers&color=00FF00)
 ![GitHub Stars](https://img.shields.io/github/stars/akash435?label=Stars&color=00FF00)
+-->
 
 ****
 
