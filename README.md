@@ -38,12 +38,12 @@
 <p align="center">
   <a target=_blank href="mailto:aakashrajak02@gmail.com"><img height = 50 width = 50 src="images/mail1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://www.linkedin.com/in/akashrajak/"><img height = 50 width = 50 src="images/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target=_blank href="https://www.hackerrank.com/aakashrajak02"><img height = 50 width = 50 src="images/hackerrank1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target=_blank href="https://www.hackerrank.com/akash_rajak"><img height = 50 width = 50 src="images/hackerrank1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://www.codechef.com/users/akash435"><img height = 50 width = 50 src="images/codechef1.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://codeforces.com/profile/aakashrajak02"><img height = 50 width = 50 src="images/codeforces1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target=_blank href="https://leetcode.com/akash435/"><img height = 50 width = 50 src="images/leetcode.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target=_blank href="https://www.facebook.com/aakash.rajak.58173"><img height = 50 width = 50 src="images/facebook.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target=_blank href="https://twitter.com/akash_ramanand"><img height = 50 width = 50 src="images/twitter1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target=_blank href="https://leetcode.com/akashrajak/"><img height = 50 width = 50 src="images/leetcode.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target=_blank href="https://www.facebook.com/akash1rajak"><img height = 50 width = 50 src="images/facebook.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target=_blank href="https://twitter.com/akash1rajak"><img height = 50 width = 50 src="images/twitter1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ****
