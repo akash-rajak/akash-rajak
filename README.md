@@ -3,16 +3,16 @@
 
 ****
 <p align="center">
-  <a href="https://github.com/akash435?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/akash-rajak?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
   
-  <a href="https://github.com/akash435?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/akash435"/></a>
+  <a href="https://github.com/akash-rajak?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/akash-rajak"/></a>
   
-  <a href="https://github.com/akash435?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/akash435?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/akash-rajak?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/akash-rajak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
-  <a href="https://github.com/akash435?tab=repositories&sort=forks">
-  <img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/akash435" > </a>
+  <a href="https://github.com/akash-rajak?tab=repositories&sort=forks">
+  <img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/akash-rajak" > </a>
 </p>
 
 <!--
@@ -49,31 +49,31 @@
 ****
 
 <p align="center">
-  <img width = 800 src = "https://github-readme-stats.vercel.app/api?username=akash435&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000">
+  <img width = 800 src = "https://github-readme-stats.vercel.app/api?username=akash-rajak&&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000">
 </p>
 
 <p align="center">
-  <img width = 800 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash435&langs_count=30&exclude_repo=android_device_xiaomi_onclite,device_xiaomi_onclite,android_kernel_xiaomi_onclite,android_vendor_xiaomi_onclite&hide=Smali,Shell&show_icons=true&locale=en&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" alt="akash435" />
+  <img width = 800 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-rajak&langs_count=30&exclude_repo=android_device_xiaomi_onclite,device_xiaomi_onclite,android_kernel_xiaomi_onclite,android_vendor_xiaomi_onclite&hide=Smali,Shell&show_icons=true&locale=en&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" alt="akash-rajak" />
 
 <p align = "center">
-  <img width = 800 src="https://github-readme-streak-stats.herokuapp.com/?user=akash435&theme=chartreuse-dark" />
+  <img width = 800 src="https://github-readme-streak-stats.herokuapp.com/?user=akash-rajak&theme=chartreuse-dark" />
 </p>
 
 ****
 
 <p align = "center">
-  <a href = "https://github.com/akash435?tab=repositories"><img width = 800 src="https://activity-graph.herokuapp.com/graph?username=akash435&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false" /></a>
+  <a href = "https://github.com/akash-rajak?tab=repositories"><img width = 800 src="https://activity-graph.herokuapp.com/graph?username=akash-rajak&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false" /></a>
 </p>
 
 ****
 
 <p align = "center">
-  <img width = 820 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash435&theme=solarized_dark" /></a>
+  <img width = 820 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-rajak&theme=solarized_dark" /></a>
 </p>
 
 <p align = "left">
-  <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash435&theme=solarized_dark" />
-  <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash435&theme=solarized_dark" />
+  <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-rajak&theme=solarized_dark" />
+  <img width = 420 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-rajak&theme=solarized_dark" />
 </p>
 
 <!--
@@ -88,11 +88,11 @@
 <h1>✔ Featured Projects 👇🏿 </h1>
 
 <p align = "center">
-  <a href="https://github.com/akash435/CaveMan-The_Saviour"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=CaveMan-The_Saviour&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/akash435/Real-Time-Human-Detection-Counting"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Real-Time-Human-Detection-Counting&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
+  <a href="https://github.com/akash-rajak/CaveMan-The_Saviour"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=CaveMan-The_Saviour&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/akash-rajak/Real-Time-Human-Detection-Counting"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Real-Time-Human-Detection-Counting&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
 </p>
 <p align = "center">
-  <a href="https://github.com/akash435/Image-Watermark-Remover"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=Image-Watermark-Remover&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/akash435/Video-Stitching"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash435&repo=VIdeo-Stitching&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
+  <a href="https://github.com/akash-rajak/Image-Watermark-Remover"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Image-Watermark-Remover&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/akash-rajak/Video-Stitching"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=VIdeo-Stitching&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
 </p>
 
