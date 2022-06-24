@@ -31,6 +31,9 @@
 <a href="https://t.me/siddhant_khare"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.instagram.com/siddhant_says/"><img src="https://img.shields.io/badge/siddhant_says-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
+<a target=_blank href="https://www.facebook.com/akash1rajak"><img height = 50 width = 50 src="images/facebook.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target=_blank href="https://twitter.com/akash1rajak"><img height = 50 width = 50 src="images/twitter1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 -->
 
 ****
@@ -42,8 +45,7 @@
   <a target=_blank href="https://www.codechef.com/users/akash435"><img height = 50 width = 50 src="images/codechef1.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://codeforces.com/profile/aakashrajak02"><img height = 50 width = 50 src="images/codeforces1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://leetcode.com/akashrajak/"><img height = 50 width = 50 src="images/leetcode.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target=_blank href="https://www.facebook.com/akash1rajak"><img height = 50 width = 50 src="images/facebook.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target=_blank href="https://twitter.com/akash1rajak"><img height = 50 width = 50 src="images/twitter1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 ****
