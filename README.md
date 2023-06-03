@@ -94,11 +94,11 @@
   <a href="https://github.com/akash-rajak/Pretty-JSON-Viewer"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Pretty-JSON-Viewer&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
 </p>
 <p align = "center">
-  <a href="https://github.com/akash-rajak/Real-Time-Human-Detection-Counting"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Real-Time-Human-Detection-Counting&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
-  <a href="https://github.com/akash-rajak/Video-Encryption-Decryption"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Video-Encryption-Decryption&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/akash-rajak/Real-Time-Human-Detection-Counting"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Real-Time-Human-Detection-Counting&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/akash-rajak/Video-Encryption-Decryption"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Video-Encryption-Decryption&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
 </p>
 <p align = "center">
-  <a href="https://github.com/akash-rajak/Image-Encryption-Decryption"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Image-Encryption-Decryption&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
-  <a href="https://github.com/akash-rajak/Image-Watermark-Remover"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Image-Watermark-Remover&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>&nbsp;&nbsp;&nbsp;&nbsp
+  <a href="https://github.com/akash-rajak/Image-Encryption-Decryption"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Image-Encryption-Decryption&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/akash-rajak/Image-Watermark-Remover"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Image-Watermark-Remover&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
 </p>
 
