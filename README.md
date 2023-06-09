@@ -1,4 +1,5 @@
 # Hi there, I am Akash Rajak 👋
+
 <!--
 ![GitHub language count](https://img.shields.io/github/languages/count/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub top language](https://img.shields.io/github/languages/top/akash-rajak/Real-Time-Human-Detection-Counting)
@@ -6,9 +7,6 @@
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub repo size](https://img.shields.io/github/repo-size/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub all releases](https://img.shields.io/github/downloads/akash-rajak/Real-Time-Human-Detection-Counting/total)
-![PyPI - Downloads](https://img.shields.io/pypi/dd/PyVolSuggester)
-![PyPI - Downloads](https://img.shields.io/pypi/dw/PyVolSuggester)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/PyVolSuggester)
 ![GitHub issues](https://img.shields.io/github/issues/akash-rajak/PyVolSuggester)
 ![GitHub issues](https://img.shields.io/github/issues-raw/akash-rajak/PyVolSuggester)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/akash-rajak/PyVolSuggester)
@@ -18,23 +16,9 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub](https://img.shields.io/github/license/akash-rajak/PyVolSuggester)
-![PyPI - License](https://img.shields.io/pypi/l/PyVolSuggester)
-![GitHub followers](https://img.shields.io/github/followers/akash-rajak?style=social)
-![GitHub followers](https://img.shields.io/github/followers/akash-rajak?style=plastic)
-![GitHub followers](https://img.shields.io/github/followers/akash-rajak)
-![GitHub followers](https://img.shields.io/github/followers/akash-rajak?style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/akash-rajak?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/akash-rajak/PyVolSuggester)
-![GitHub User's stars](https://img.shields.io/github/stars/akash-rajak?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/akash-rajak/PyVolSuggester?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/akash-rajak/PyVolsuggester?style=social)
-![GitHub manifest version](https://img.shields.io/github/manifest-json/v/akash-rajak/Github-Repo-Stats)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/akash-rajak/Pretty-JSON-Viewer)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/akash-rajak/PyVolSuggester)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/akash-rajak/PyVolSuggester)
-![PyPI](https://img.shields.io/pypi/v/PyVolSuggester)
-![PyPI - Implementation](https://img.shields.io/pypi/implementation/PyVolSuggester)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/PyVolSuggester)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/akash-rajak/Real-Time-Human-Detection-Counting)
@@ -46,14 +30,33 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub last commit](https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting/PragyaBranch)
+
+![PyPI - Downloads](https://img.shields.io/pypi/dd/PyVolSuggester)
+![PyPI - Downloads](https://img.shields.io/pypi/dw/PyVolSuggester)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/PyVolSuggester)
+![PyPI - License](https://img.shields.io/pypi/l/PyVolSuggester)
+![GitHub followers](https://img.shields.io/github/followers/akash-rajak?style=social)
+![GitHub followers](https://img.shields.io/github/followers/akash-rajak?style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/akash-rajak)
+![GitHub followers](https://img.shields.io/github/followers/akash-rajak?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/akash-rajak?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/akash-rajak?style=social)
+
+![GitHub manifest version](https://img.shields.io/github/manifest-json/v/akash-rajak/Github-Repo-Stats)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/akash-rajak/Pretty-JSON-Viewer)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/akash-rajak/PyVolSuggester)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/akash-rajak/PyVolSuggester)
+![PyPI](https://img.shields.io/pypi/v/PyVolSuggester)
+![PyPI - Implementation](https://img.shields.io/pypi/implementation/PyVolSuggester)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/PyVolSuggester)
 ![GitHub Release Date](https://img.shields.io/github/release-date/akash-rajak/PyVolSuggester)
 ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/akash-rajak/PyVolSuggester)
 ![GitHub Discussions](https://img.shields.io/github/discussions/akash-rajak/PyVolSuggester)
 ![GitHub manifest.json dynamic](https://img.shields.io/github/manifest-json/permissions/akash-rajak/Github-Repo-Stats)
 ![PyPI - Format](https://img.shields.io/pypi/format/PyVolSuggester)
 ![PyPI - Status](https://img.shields.io/pypi/status/PyVolSuggester)
-
 -->
+
 ****
 <p align="center">
   <a href="https://github.com/akash-rajak?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
