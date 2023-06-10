@@ -50,12 +50,17 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/akash-rajak?style=social)
 
 ![GitHub manifest version](https://img.shields.io/github/manifest-json/v/akash-rajak/Github-Repo-Stats)
+![GitHub manifest version](https://img.shields.io/github/manifest-json/v/akash-rajak/Github-Repo-Stats/main)
+![GitHub manifest version](https://img.shields.io/github/manifest-json/v/akash-rajak/Github-Repo-Stats/master)
+![GitHub manifest.json dynamic](https://img.shields.io/github/manifest-json/permissions/akash-rajak/Github-Repo-Stats)
+
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/akash-rajak/Pretty-JSON-Viewer)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/akash-rajak/PyVolSuggester)
+
+![GitHub all releases](https://img.shields.io/github/downloads/akash-rajak/PyVolSuggester/total)
+![GitHub release version (latest by date)](https://img.shields.io/github/v/release/akash-rajak/PyVolSuggester)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/akash-rajak/PyVolSuggester)
 ![GitHub Release Date](https://img.shields.io/github/release-date/akash-rajak/PyVolSuggester)
 ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/akash-rajak/PyVolSuggester)
-![GitHub manifest.json dynamic](https://img.shields.io/github/manifest-json/permissions/akash-rajak/Github-Repo-Stats)
 
 can try implementing this
 ![image](https://github.com/akash-rajak/akash-rajak/assets/57003737/6e618b83-4ec8-40c3-840e-b89bd6bb576c)
