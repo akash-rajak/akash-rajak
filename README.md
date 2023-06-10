@@ -55,6 +55,10 @@
 ![GitHub manifest.json dynamic](https://img.shields.io/github/manifest-json/permissions/akash-rajak/Github-Repo-Stats)
 ![PyPI - Format](https://img.shields.io/pypi/format/PyVolSuggester)
 ![PyPI - Status](https://img.shields.io/pypi/status/PyVolSuggester)
+
+can try implementing this
+![image](https://github.com/akash-rajak/akash-rajak/assets/57003737/6e618b83-4ec8-40c3-840e-b89bd6bb576c)
+
 -->
 
 ****
