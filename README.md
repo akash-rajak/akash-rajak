@@ -116,13 +116,6 @@ can try implementing this
 ****
 
 <p align = "center">
-	<a href="https://chrome.google.com/webstore/detail/github-repo-stats/iacikofnneiekcioegdmebkmihldigfj/"
-          target="_blank">
-          <img src="https://i.imgur.com/iswHnpJ.png" alt="Chrome Web Store" style="max-width: 90%;">
-          </img>
-        </a>
-</p>
-<p align = "center">
 	<a target=_blank href="https://chrome.google.com/webstore/detail/github-repo-stats/iacikofnneiekcioegdmebkmihldigfj/"><img src = "https://img.shields.io/badge/Chrome Extension [Chrome Webstore]-Github Repo Stats-green?&logo=appveyor", alt = "GitHub Repo stars"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://pypi.org/project/PyVolSuggester/"><img src = "https://img.shields.io/badge/Pypi Package [PYPI]-PyVolSuggester-blue?&logo=appveyor", alt = "PyVolSuggester"></a>
 
