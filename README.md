@@ -27,7 +27,7 @@
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/akash-rajak/Real-Time-Human-Detection-Counting/PragyaBranch)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/akash-rajak/Real-Time-Human-Detection-Counting/PragyaBranch)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/akash-rajak/Real-Time-Human-Detection-Counting/PragyaBranch)
-![GitHub contributors](https://img.shields.io/github/contributors/akash-rajak/Real-Time-Human-Detection-Counting)
+![GitHub contributors](https://img.shields.io/github/contributors/akash-rajak/Real-Time-Human-Detection-Counting) <!-- Try implementing https://allcontributors.org/ --?
 ![GitHub last commit](https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/akash-rajak/Real-Time-Human-Detection-Counting/PragyaBranch)
 ![GitHub Discussions](https://img.shields.io/github/discussions/akash-rajak/PyVolSuggester)
