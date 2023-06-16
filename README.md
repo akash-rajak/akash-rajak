@@ -111,7 +111,13 @@ can try implementing this
   <a target=_blank href="https://www.codechef.com/users/akash435"><img height = 50 width = 50 src="images/codechef1.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://codeforces.com/profile/aakashrajak02"><img height = 50 width = 50 src="images/codeforces1.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://leetcode.com/akashrajak/"><img height = 50 width = 50 src="images/leetcode.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+</p>
+
+****
+
+<p align = "center">
+	<a target=_blank href="https://chrome.google.com/webstore/detail/github-repo-stats/iacikofnneiekcioegdmebkmihldigfj/"><img src = "https://img.shields.io/badge/Chrome Extension [Chrome Webstore]-Github Repo Stats-green?&logo=appveyor", alt = "GitHub Repo stars"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a target="_blank" href="https://pypi.org/project/PyVolSuggester/"><img src = "https://img.shields.io/badge/Pypi Package [PYPI]-PyVolSuggester-blue?&logo=appveyor", alt = "PyVolSuggester"></a>
 </p>
 
 ****
