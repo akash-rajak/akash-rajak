@@ -167,4 +167,8 @@ can try implementing this
   <a href="https://github.com/akash-rajak/Image-Encryption-Decryption"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Image-Encryption-Decryption&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/akash-rajak/Image-Watermark-Remover"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Image-Watermark-Remover&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
 </p>
+<p align = "center">
+  <a href="https://github.com/akash-rajak/Github-Repo-Stats"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=Github-Repo-Stats&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/akash-rajak/PyVolSuggester"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=akash-rajak&repo=PyVolSuggester&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000"  /></a>
+</p>
 
